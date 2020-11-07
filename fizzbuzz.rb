@@ -8,4 +8,4 @@ def fizzbuzz(num)
   else if num % 3 && num % 5
     return "FizzBuzz"
   else
-    return nill
+    return nil
